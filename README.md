@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/CherryRambler/3-column-preview-card.git)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Live Site URL: [ live site URL ](https://cherryrambler.github.io/3-column-preview-card/)
 
 ## My process
 
